@@ -1,0 +1,15 @@
+{
+  "originHash" : "950b76433445761d82631fa3b1bbf52182ccd6a06cfea838e68b9432421de721",
+  "pins" : [
+    {
+      "identity" : "networkmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pandashashwat97/NetworkManager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8a439bc934db883d974e47dc896cd57000520cc6"
+      }
+    }
+  ],
+  "version" : 3
+}
